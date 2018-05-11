@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resebyrå", "Resebyrå\Resebyrå.csproj", "{76FD544A-0D2E-4A04-9C52-81D35CBFF3F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResebyråTest", "ResebyråTest\ResebyråTest.csproj", "{0C61B41C-DF66-4CB2-B470-DC940F36093D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76FD544A-0D2E-4A04-9C52-81D35CBFF3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76FD544A-0D2E-4A04-9C52-81D35CBFF3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76FD544A-0D2E-4A04-9C52-81D35CBFF3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
