@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resebyrå", "Resebyrå\Resebyrå.csproj", "{76FD544A-0D2E-4A04-9C52-81D35CBFF3F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resebyrå", "Resebyrå\Resebyrå.csproj", "{76FD544A-0D2E-4A04-9C52-81D35CBFF3F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResebyråTest", "ResebyråTest\ResebyråTest.csproj", "{0C61B41C-DF66-4CB2-B470-DC940F36093D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResebyråTest", "ResebyråTest\ResebyråTest.csproj", "{0C61B41C-DF66-4CB2-B470-DC940F36093D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resebyrå2", "..\Resebyrå - Corrected\Resebyrå\Resebyrå2.csproj", "{53D29BAD-BC46-4523-81C1-76D89D2C5AF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resebyrå2Test", "..\Resebyrå - Corrected\ResebyråTest\Resebyrå2Test.csproj", "{5A5BAC13-59BC-475F-A0D0-E2E52EAF798C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C61B41C-DF66-4CB2-B470-DC940F36093D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D29BAD-BC46-4523-81C1-76D89D2C5AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D29BAD-BC46-4523-81C1-76D89D2C5AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D29BAD-BC46-4523-81C1-76D89D2C5AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D29BAD-BC46-4523-81C1-76D89D2C5AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5BAC13-59BC-475F-A0D0-E2E52EAF798C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5BAC13-59BC-475F-A0D0-E2E52EAF798C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5BAC13-59BC-475F-A0D0-E2E52EAF798C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5BAC13-59BC-475F-A0D0-E2E52EAF798C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
